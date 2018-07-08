@@ -1,0 +1,4 @@
+total 4
+-rw-rw-r-- 1 zemoso zemoso    0 Jun 19 11:38 1.txt
+-rw-rw-r-- 1 zemoso zemoso    0 Jun 20 12:04 2.txt
+-rw-rw-r-- 1 zemoso zemoso 2679 Jun 20 10:55 Vagrantfile
